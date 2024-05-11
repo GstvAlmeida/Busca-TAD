@@ -5,7 +5,7 @@ Projeto da unidade 1 da disciplina de Linguagem de Programação 1.
 # Comandos
 - Compilar: make all
 - Rodar: make run
-- Compilar e roda: make dev
+- Compilar e rodar: make dev
 # Funcionalidades
 - Cadastrar Astronauta
 - Cadastrar Voo

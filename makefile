@@ -1,12 +1,11 @@
-main.o: main.c
-	g++ -c main.c main.o
-
 all:
+	g++ -c main.cpp main.o
 	g++ main.o -o projeto
 
 run:
 	./projeto
 
-dev: 
+dev:
+	g++ -c main.cpp main.o
 	g++ main.o -o projeto
 	./projeto

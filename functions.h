@@ -254,7 +254,7 @@ void Finalizarvoo() {
     std::cout << "Voo com código " << voocod << " não encontrado ou não está em curso." << std::endl;
 }
 
-void ListarVoos() {
+void Listarvoos() {
     std::cout << std::endl;
     std::cout << "Voos Planejados:" << std::endl;
     std::cout << std::endl;
@@ -312,7 +312,7 @@ void ListarVoos() {
     }
 }
 
-void ListarAstronautasMortos() {
+void Listar_astronautas_mortos() {
     
     for (auto& pair : astronautas_mortos_map) {
         // Mostra o nome e CPF do astronauta morto.

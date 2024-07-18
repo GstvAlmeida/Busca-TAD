@@ -2,6 +2,7 @@
 Projeto da unidade 1 da disciplina de Linguagem de Programação 1.
 # Requisitos
 - G++
+- Makefile
 # Comandos
 - Compilar: make all
 - Rodar: make run
